@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+tr.plugin_memorandum_text.hidden {
+	display: none;
+}
+
+td.column-memo-switch {
+	text-align: center;
+}
+
+th.column-memo-switch {
+	white-space: nowrap;
+}
+textarea.plugin-memo {
+	width: 100%;
+	background-color: #fffbe4;
+}
